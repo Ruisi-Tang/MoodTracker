@@ -36,7 +36,7 @@ As a beginner developer, the Mood Tracker App is the first App I have ever made 
 
 There is certainly a lot that still can be improved for this App, things like:
 
-* Add a delete method on the database API, this will allow user to delete and modify their input. 
+* Add a delete method in the database Class, this will allow user to delete and modify their input. 
 * Utilize an open-source graph generator library to generate a report for database data for better visualization.
 * Add a login feature to protect the user's privacy
 * Improve the UI/UX design of the App for a smoother user experience.
